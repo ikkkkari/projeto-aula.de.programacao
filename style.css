@@ -1,3 +1,6 @@
-body {
+body{
     background-color: #FFFFFF;
+}
+header{
+    background: -moz-linear-gradient(#CFE8FF #B3D5E9);
 }
